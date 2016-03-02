@@ -81,8 +81,10 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
-    background: #18bc9c;
+    /*color: #fff;*/
+    /*background: #18bc9c;*/
+    color: black;
+    background: : #33ccff;
 }
 
 header .container {
@@ -456,4 +458,10 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+.copyright {
+    padding-top: 30px;
+}
+.social_icons {
+    /*padding-left: 20px;*/
 }
